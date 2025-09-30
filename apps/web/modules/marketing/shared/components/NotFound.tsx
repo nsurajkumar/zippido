@@ -12,7 +12,7 @@ export function NotFound() {
 
 			<Button asChild className="mt-4">
 				<LocaleLink href="/">
-					<UndoIcon className="mr-2 size-4" /> Go to homepage
+					<UndoIcon className="mr-2 size-4" /> Go to homepage who the fuck is this
 				</LocaleLink>
 			</Button>
 		</div>
